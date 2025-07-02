@@ -1,2 +1,3 @@
-# vetconnect-live
-Veteran support platform starter
+# VetConnect App
+
+Veteran support platform starter code.
