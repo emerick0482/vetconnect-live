@@ -1,3 +1,3 @@
 # VetConnect App
 
-Veteran support platform starter code.
+This is a basic React + Supabase starter project.
