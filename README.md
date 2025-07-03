@@ -1,3 +1,3 @@
 # VetConnect App
 
-This is a basic React + Supabase starter project.
+A starter React + Vite + Supabase app for veteran community support.
